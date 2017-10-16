@@ -3,3 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 第一个git版本库
+
+学习git
+================
