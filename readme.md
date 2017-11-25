@@ -10,8 +10,10 @@
     - [常用的命令](#%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4)
     - [github 上的markdown语法](#github-%E4%B8%8A%E7%9A%84markdown%E8%AF%AD%E6%B3%95)
         - [latex公式](#latex%E5%85%AC%E5%BC%8F)
+            - [使用vscode的mdmath扩展](#%E4%BD%BF%E7%94%A8vscode%E7%9A%84mdmath%E6%89%A9%E5%B1%95)
+            - [使用在线api渲染成图片插入](#%E4%BD%BF%E7%94%A8%E5%9C%A8%E7%BA%BFapi%E6%B8%B2%E6%9F%93%E6%88%90%E5%9B%BE%E7%89%87%E6%8F%92%E5%85%A5)
         - [图片](#%E5%9B%BE%E7%89%87)
-    - [参考资料](#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99)
+- [参考资料](#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99)
 
 ## git介绍
 
@@ -46,21 +48,25 @@
 
 ### latex公式
 
-暂时都不成功
+#### 使用vscode的mdmath扩展
+
+这种方法是和本地使用，公式还可以编号
 
 $$ ax^{2} + by^{2} + c = 0 $$
 
-![equation](http://latex.codecogs.com/gif.latex?x^2+y^2=z^2)
+#### 使用在线api渲染成图片插入
 
-![equation](http://chart.googleapis.com/chart?cht=tx&chl=\Large{x}=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+这种方法支持github
+
+![equation](http://latex.codecogs.com/gif.latex?x^2+y^2=z^2)
 
 ![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
+![equation](http://chart.googleapis.com/chart?cht=tx&chl=\Large{x}=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+
 ### 图片
 
-
-参考资料
--------------------
+# 参考资料
 
 1. [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 1. [Markdown语法手册](http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-9)
