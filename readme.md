@@ -48,7 +48,7 @@
 
 $$ ax^{2} + by^{2} + c = 0 $$
 
-[equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
+[equation](http://latex.codecogs.com/gif.latex? x^2+y^2=z^2)  
 
 参考资料
 -------------------
