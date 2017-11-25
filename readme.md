@@ -41,10 +41,11 @@ git介绍
 | git diff   | 显示暂存区和工作区的差异             |                             |
 | git fetch  | 将远程仓库的变动下载到本地仓库       |                             |
 
-$$x^2+y^2=z^2$$
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$x^2+y^2=z^2$
 
 参考资料
 -------------------
 
 1. [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
-2. [Markdown语法手册](http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-9)
+1. [Markdown语法手册](http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-9)
