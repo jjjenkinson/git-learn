@@ -11,6 +11,7 @@
     - [常用的命令](#%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4)
     - [github 上的markdown语法](#github-%E4%B8%8A%E7%9A%84markdown%E8%AF%AD%E6%B3%95)
         - [latex公式](#latex%E5%85%AC%E5%BC%8F)
+        - [图片](#%E5%9B%BE%E7%89%87)
     - [参考资料](#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99)
 
 ## git介绍
@@ -48,7 +49,12 @@
 
 $$ ax^{2} + by^{2} + c = 0 $$
 
-[equation](http://latex.codecogs.com/gif.latex? x^2+y^2=z^2)  
+![equation](http://latex.codecogs.com/gif.latex? x^2+y^2=z^2)
+
+http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+
+### 图片
+
 
 参考资料
 -------------------
