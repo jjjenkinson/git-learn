@@ -1,5 +1,8 @@
 # 学习git
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
+</script>
+
 @Author:    Jenkinson
 
 @DateTiem:  2017-11-25 18:19:44
@@ -46,10 +49,7 @@
 
 ### latex公式
 
-<script
-    type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
-</script>
-ax^{2} + by^{2} + c = 0
+$$ax^{2} + by^{2} + c = 0$$
 
 <img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
 
