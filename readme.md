@@ -52,7 +52,7 @@ $$ ax^{2} + by^{2} + c = 0 $$
 
 ![equation](http://latex.codecogs.com/gif.latex?x^2+y^2=z^2)
 
-![equation](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+![equation](http://chart.googleapis.com/chart?cht=tx&chl=\Large\x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
 ![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
@@ -64,3 +64,4 @@ $$ ax^{2} + by^{2} + c = 0 $$
 
 1. [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 1. [Markdown语法手册](http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-9)
+1. [如何在 GitHub 录入数学公式](http://www.jianshu.com/p/c169599726e1)
