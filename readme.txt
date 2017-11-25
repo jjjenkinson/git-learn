@@ -14,11 +14,11 @@ Git has a mutable index called stage.
 
 常用的命令:
 --------------
-![Alt text](./fig/bg2015120901.png "命令图示")
+![Alt](./fig/bg2015120901.png "命令图示")
 
 | 命令        | 功能        | 备注    |
 |:-----------:|:-----------|:--------|
-| git status    |   |   |
+| git status    | 显示有变更的文件 |   |
 | git add       | 添加文件到暂存区  |   |
 | git commit    |提交暂存区到仓库区  |   |
 | git rm        | 删除工作区文件   |   |
