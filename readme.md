@@ -43,8 +43,8 @@ git介绍
 
 <script
     type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
-    ax^{2} + by^{2} + c = 0
 </script>
+    ax^{2} + by^{2} + c = 0
 
 
 
