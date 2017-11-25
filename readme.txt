@@ -7,3 +7,11 @@ Git has a mutable index called stage.
 
 学习git
 ================
+
+常用的命令:
+| 命令        | 功能        | 备注    |
+|:-----------:|:-----------|:--------|
+| git status
+| git add
+| git commit
+| git pull
