@@ -49,10 +49,7 @@
 
 ### latex公式
 
-$$ax^{2} + by^{2} + c = 0$$
-
-<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
-
+$$ ax^{2} + by^{2} + c = 0 $$
 
 参考资料
 -------------------
