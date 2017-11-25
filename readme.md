@@ -41,8 +41,12 @@ git介绍
 | git diff   | 显示暂存区和工作区的差异             |                             |
 | git fetch  | 将远程仓库的变动下载到本地仓库       |                             |
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-$x^2+y^2=z^2$
+<script
+    type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
+    ax^{2} + by^{2} + c = 0
+</script>
+
+
 
 参考资料
 -------------------
