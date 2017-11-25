@@ -52,9 +52,9 @@ $$ ax^{2} + by^{2} + c = 0 $$
 
 ![equation](http://latex.codecogs.com/gif.latex?x^2+y^2=z^2)
 
-![equation](http://chart.googleapis.com/chart?cht=tx&chl=\Large\ x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+![equation](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
-![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
+![](http://latex.codecogs.com/gif.latex? \\frac{1}{1+sin(x)})
 
 ### 图片
 
