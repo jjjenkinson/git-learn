@@ -8,6 +8,7 @@
 - [学习git](#%E5%AD%A6%E4%B9%A0git)
     - [git介绍](#git%E4%BB%8B%E7%BB%8D)
     - [常用的命令](#%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4)
+    - [参考资料](#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99)
 
 git介绍
 -----------------
@@ -39,3 +40,8 @@ git介绍
 | git log    | 显示当前分支的版本历史               |                             |
 | git diff   | 显示暂存区和工作区的差异             |                             |
 | git fetch  | 将远程仓库的变动下载到本地仓库       |                             |
+
+参考资料
+-------------------
+
+- [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
