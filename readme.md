@@ -1,5 +1,4 @@
-学习git
-================
+# 学习git
 
 @Author:    Jenkinson
 
@@ -8,10 +7,11 @@
 - [学习git](#%E5%AD%A6%E4%B9%A0git)
     - [git介绍](#git%E4%BB%8B%E7%BB%8D)
     - [常用的命令](#%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4)
+    - [github 上的markdown语法](#github-%E4%B8%8A%E7%9A%84markdown%E8%AF%AD%E6%B3%95)
+        - [latex公式](#latex%E5%85%AC%E5%BC%8F)
     - [参考资料](#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99)
 
-git介绍
------------------
+## git介绍
 
 - 工作区(workspace)
 - 暂存区(stage)
@@ -21,8 +21,7 @@ git介绍
 - master git默认创建的主分支
 - origin 远程库的名字
 
-常用的命令
---------------
+## 常用的命令
 
 ![Alt](./fig/bg2015120901.png "命令图示")
 
@@ -41,11 +40,18 @@ git介绍
 | git diff   | 显示暂存区和工作区的差异             |                             |
 | git fetch  | 将远程仓库的变动下载到本地仓库       |                             |
 
+
+
+## github 上的markdown语法
+
+### latex公式
+
 <script
     type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
 </script>
 ax^{2} + by^{2} + c = 0
 
+<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
 
 
 参考资料
