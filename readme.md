@@ -1,7 +1,6 @@
-# 学习git
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
-</script>
+# 学习git
 
 @Author:    Jenkinson
 
@@ -42,8 +41,6 @@
 | git log    | 显示当前分支的版本历史               |                             |
 | git diff   | 显示暂存区和工作区的差异             |                             |
 | git fetch  | 将远程仓库的变动下载到本地仓库       |                             |
-
-
 
 ## github 上的markdown语法
 
